@@ -1,0 +1,5 @@
+# elasticsearch/elasticsearch.yml
+cluster.name: "liga-monitoring-cluster"
+network.host: 0.0.0.0
+xpack.security.enabled: true
+xpack.security.http.ssl.enabled: false

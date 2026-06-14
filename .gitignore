@@ -1,0 +1,4 @@
+.env
+**/.env
+es_data/
+.DS_Store
