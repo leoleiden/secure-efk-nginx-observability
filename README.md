@@ -60,7 +60,7 @@ Created dedicated operational dashboards aggregating multiple visual panels, all
 **1. Clone the repository and navigate to the directory:**
 ```bash
 git clone <your-repository-url>
-cd elk-icinga-secure-poc
+cd secure-efk-nginx-observability
 ```
 
 **2. Optimize Host Memory Limits (Linux/WSL):**
