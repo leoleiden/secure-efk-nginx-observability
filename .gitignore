@@ -2,3 +2,6 @@
 **/.env
 es_data/
 .DS_Store
+es_data/
+nginx_logs/
+.env

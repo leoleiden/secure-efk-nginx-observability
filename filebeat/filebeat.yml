@@ -1,0 +1,8 @@
+filebeat.inputs:
+- type: filestream
+  id: nginx-access-logs
+  paths:
+    - /var/log/nginx/access.log
+
+output.elasticsearch:
+  hosts: ["elasticsearch:9200"]
